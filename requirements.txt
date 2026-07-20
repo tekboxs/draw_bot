@@ -1,0 +1,6 @@
+numpy
+scipy
+numba
+opencv-python
+pydirectinput
+keyboard
