@@ -337,7 +337,7 @@ if __name__ == "__main__":
     LIMIAR = 250  # quanto maior, mais pixels contam como traço
     AMOSTRAGEM = 1  # 1 = usa todos os pixels
     DISTANCIA_MAX = 2  # une pixels a até N px no mesmo traço
-    SALTO_MAX = 2  # acima disso a caneta levanta em vez de riscar
+    SALTO_MAX = 5  # acima disso a caneta levanta em vez de riscar
 
     try:
         print("=== DRAW BOT DE FUBA ===")
